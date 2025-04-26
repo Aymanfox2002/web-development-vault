@@ -5,3 +5,5 @@
 
 [[_Fundamentals]]
 [[_Rendering Methods]]
+[[_API Routes]]
+[[_Optimizing]]

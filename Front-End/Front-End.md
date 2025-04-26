@@ -8,3 +8,4 @@
 [[Web Security Basics]]
 [[SEO]]
 [[NextJS]]
+[[Type Script]]

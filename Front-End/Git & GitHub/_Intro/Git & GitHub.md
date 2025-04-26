@@ -5,7 +5,7 @@
 [[_Branching]]
 [[_GitHub Essentials]]
 [[_Git Remotes]]
-
+[[_Merge Strategies]]
 ## **Also read about ❗**
 
 - [ ] Bare repositories
